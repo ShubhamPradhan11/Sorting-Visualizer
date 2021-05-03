@@ -1,7 +1,7 @@
 # Sort Visualizer
 This is a progressive web app built using React and is used to visualize classic sorting algorithms such as insertion sort, merge sort, quick sort, heap sort, etc.
 
-This app is deployed with Firebase and can be accessed here:[Sorting-Visualizer](https://sorting-visualizer-b2149.web.app/). I hope you have fun playing around with it.
+This app is deployed with Firebase and can be accessed here: [Sorting-Visualizer](https://sorting-visualizer-b2149.web.app/). I hope you have fun playing around with it.
 
 ![alt text](sc.jpg)
 
