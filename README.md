@@ -3,7 +3,7 @@ This is a progressive web app built using React and is used to visualize classic
 
 This app is deployed with Firebase and can be accessed here: [Sorting-Visualizer](https://sorting-visualizer-b2149.web.app/). I hope you have fun playing around with it.
 
-![alt text](sc.jpg)
+![alt text](public/sc.jpg)
 
 ## Purpose
 I wanted to get started with React and also learn classic sorting algorithms. This project turned out to be a great way to achieve both of the aforementioned objectives at the same time.
